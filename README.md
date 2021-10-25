@@ -1,3 +1,5 @@
 # hello-world
 hii homo sapians 
-i am vviekgiri from mahuva
+this is student of nirma university
+ahmedabad 
+CSE-MBA student
